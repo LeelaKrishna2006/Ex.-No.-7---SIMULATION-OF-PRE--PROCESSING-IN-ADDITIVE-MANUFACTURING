@@ -44,9 +44,11 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+![image](https://github.com/user-attachments/assets/8c9b6331-62e4-4828-9092-afc778a96548)
 
-### Name:
-### Register Number:
+
+### Name: NALLAMALLI VENKATA CHETAN SATWIK
+### Register Number: 212224240100
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.

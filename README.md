@@ -47,8 +47,8 @@
 ![image](https://github.com/user-attachments/assets/8c9b6331-62e4-4828-9092-afc778a96548)
 
 
-### Name: NALLAMALLI VENKATA CHETAN SATWIK
-### Register Number: 212224240100
+### Name: ARANI VENKATA SUNDARA LEELA KRISHNA
+### Register Number: 212224240013
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
